@@ -1,3 +1,3 @@
 # RANDOM-NUMBER-PREDICTION-
-Predicting Random Number With Machine Learning Algorithm .
-Gjhb
+Predicting Random Number With Machine Learning Algorithm 
+
